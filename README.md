@@ -8,8 +8,8 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Try It
 ---
 https://github.com/forambhut/React_Calculator_App
-<br>
-For creating new project type the following command 
+
+<br>For creating new project type the following command 
 ### `npm create-react-app appname`
 
 ## Folder Structure
