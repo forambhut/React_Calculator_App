@@ -1,6 +1,15 @@
 # React_Calculator_App
+![image](https://user-images.githubusercontent.com/58871655/118358505-bd46ee00-b59c-11eb-8251-a8930309575e.png)
 
-Getting Started with Create React App : For creating new project type the following command 
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+
+
+Try It
+---
+https://github.com/forambhut/React_Calculator_App
+<br>
+For creating new project type the following command 
 ### `npm create-react-app appname`
 
 ## Folder Structure
@@ -33,7 +42,8 @@ You can delete or rename the other files.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:![Logotype primary](https://user-images.githubusercontent.com/58871655/118358486-9be60200-b59c-11eb-95b1-02e7a2926981.png)
+
 
 ### `npm start`
 
