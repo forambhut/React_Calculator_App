@@ -42,9 +42,7 @@ You can delete or rename the other files.
 
 ## Available Scripts
 
-In the project directory, you can run:![Logotype primary](https://user-images.githubusercontent.com/58871655/118358486-9be60200-b59c-11eb-95b1-02e7a2926981.png)
-
-
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
